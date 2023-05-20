@@ -1,0 +1,37 @@
+.content p{
+    margin-left: 101px;
+}
+.content li{
+    margin-left: 80px;
+}
+.content .p1{
+    margin-top: 167px;
+    font-weight: 600;
+    font-size: 32px;
+} 
+a{
+    margin-left: 570px;
+}
+.tablica {
+    background-color: black;
+    margin-left: 101px;
+    box-shadow: 1px 2px 1px 0.3px rgba(0, 0, 0, 0.25);
+}
+.tablica tr{
+    background-color: #ececec;
+}
+.tablica .tr1{
+    background-color: #c1c1c1;
+}
+
+
+/* table black */
+.tablica {
+    background-color: #EEEEEE;
+}
+.tablica tr{
+    background-color: #5C5470;
+}
+.tablica .tr1{
+    background-color: #757575;
+}
